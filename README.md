@@ -1,5 +1,7 @@
 #tools spam 
 
+#Salam dari orang Bodoh yang tersakiti:)
+
 bahan-bahan 
 ============
 pkg update && pkg upgrade
@@ -22,4 +24,5 @@ RUN
 cd Riper
 
 python jamuet.py
+
 
