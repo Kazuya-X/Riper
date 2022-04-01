@@ -15,7 +15,7 @@ pip install futures
 
 pip install bs4
 
-git clone https://github.com/4RD1-X-64N22/Riper
+git clone https://github.com/Kazuya-X/Riper
 
 cd Riper
 
